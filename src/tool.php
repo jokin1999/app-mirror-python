@@ -1,4 +1,7 @@
 <?php
+// 检测运行模式
+define('IS_CLI', php_sapi_name() == 'cli');
+
 // 读取配置文件
 $config = parse_ini_file('./src/.config');
 /**
@@ -49,8 +52,12 @@ if (isset($config['akm_text'])) {
 date_default_timezone_set('PRC');
 $tpl = str_replace('{{__UPDATE_TIME__}}', date('Y-m-d H:i:s'), $tpl);
 
-// 生成静态文件
-file_put_contents('./public/index.html', $tpl);
+// 生成静态文件与运行
+if (IS_CLI === FALSE) {
+  echo $tpl;
+}else{
+  file_put_contents('./public/index.html', $tpl);
+}
 
 /**
  * 目录遍历
