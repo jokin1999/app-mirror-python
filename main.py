@@ -16,9 +16,12 @@ def downloader(url, save_path) :
 def get_releases() :
     for owner in AM_LIST.keys():
         for item in AM_LIST[owner]:
+            len_item = len(item)
             repo = item['repo']
+            # 限制release下载数量，-1为不下载release
             release = int(item['releases'])
             prerelease = int(item['pre-releases'])
+            # 生成API路径
             url = BASE_URL.format(owner, repo)
             # 下载 release 数据
             print('-> Start downloading: ' + owner + '/' + repo)
@@ -124,14 +127,22 @@ def main() :
         # 移除空项
         if i == '' : continue
         item = i.split('/')
-        # 长度不为4即错误
-        if len(item) != 4 : continue
+        # 长度不为2或4即错误
+        len_item = len(item)
+        if len_item != 2 and len_item != 4 : continue
         # 加入列表
-        dist = {
-        'repo': item[1],
-        'releases': item[2],
-        'pre-releases': item[3]
-        }
+        if len_item == 2 :
+            dist = {
+                'repo': item[1],
+                'releases': str(-1),
+                'pre-releases': str(-1)
+            }
+        else:
+            dist = {
+                'repo': item[1],
+                'releases': item[2],
+                'pre-releases': item[3]
+            }
         if AM_LIST.get(item[0], None) :
             AM_LIST[item[0]].append(dist)
         else:
@@ -175,6 +186,6 @@ if __name__ == '__main__' :
     print("=================================================")
     print("||                 App  Mirror                 ||")
     print("||                Author: Jokin                ||")
-    print("||               Version: v1.0.0               ||")
+    print("||               Version: v1.0.1               ||")
     print("=================================================")
     main()
