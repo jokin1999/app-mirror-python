@@ -67,6 +67,7 @@ if (file_exists($config['tpl_path'])) {
   // 尝试获取远程模板
   $error = 'Fetch remote template file error.';
   $url = isset($config['remote_tpl_path']) && $config['remote_tpl_path'] !== '' ? $config['remote_tpl_path'].'/'.VERSION.'/'.'index.tpl' : exit($error);
+  echo $url;
   $ch = curl_init($url);
   curl_setopt($ch, CURLOPT_HEADER, FALSE);
   curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE);
