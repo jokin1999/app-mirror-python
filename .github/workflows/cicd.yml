@@ -40,10 +40,10 @@ jobs:
     - name: Build
       run: php ./src/tool.php
 
-    - name: Clean
-      uses: dawidd6/action-delete-branch@v3
-      with:
-        branches: vercel
+#     - name: Clean
+#       uses: dawidd6/action-delete-branch@v3
+#       with:
+#         branches: vercel
 
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v3
