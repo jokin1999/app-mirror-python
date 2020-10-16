@@ -33,7 +33,7 @@ jobs:
       env:
         AM_CLIENT_ID: ${{ secrets.AM_CLIENT_ID }}
         AM_CLIENT_SECRET: ${{ secrets.AM_CLIENT_SECRET }}
-        AM_LIST: jokin1999/quic-search/2/1;2dust/v2rayN/5/1;nilaoda/N_m3u8DL-CLI/2/1;ColaSign/haidan;alecthw/mmdb_china_ip_list/5/1;
+        AM_LIST: jokin1999/quic-search/2/1;2dust/v2rayN/5/1;nilaoda/N_m3u8DL-CLI/2/1;ColaSign/haidan;alecthw/mmdb_china_ip_list/1/1;
       run: |
         python main.py
 
