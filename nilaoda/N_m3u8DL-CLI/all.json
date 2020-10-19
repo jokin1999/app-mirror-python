@@ -63,7 +63,7 @@
         "content_type": "application/x-msdownload",
         "state": "uploaded",
         "size": 923648,
-        "download_count": 577,
+        "download_count": 591,
         "created_at": "2020-10-14T14:29:36Z",
         "updated_at": "2020-10-14T14:29:40Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.7.5/N_m3u8DL-CLI_v2.7.5.exe"
@@ -97,7 +97,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 6283913,
-        "download_count": 956,
+        "download_count": 991,
         "created_at": "2020-10-14T14:29:44Z",
         "updated_at": "2020-10-14T14:29:52Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.7.5/N_m3u8DL-CLI_v2.7.5_with_ffmpeg_and_SimpleG.zip"
@@ -171,7 +171,7 @@
         "content_type": "application/x-msdownload",
         "state": "uploaded",
         "size": 923136,
-        "download_count": 2621,
+        "download_count": 2622,
         "created_at": "2020-09-20T05:42:36Z",
         "updated_at": "2020-09-20T05:42:42Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.7.4/N_m3u8DL-CLI_v2.7.4.exe"
@@ -205,7 +205,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 6283810,
-        "download_count": 4514,
+        "download_count": 4515,
         "created_at": "2020-09-20T05:42:48Z",
         "updated_at": "2020-09-20T05:43:12Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.7.4/N_m3u8DL-CLI_v2.7.4_with_ffmpeg_and_SimpleG.zip"
@@ -2637,7 +2637,7 @@
         "content_type": "application/x-msdownload",
         "state": "uploaded",
         "size": 85504,
-        "download_count": 377,
+        "download_count": 378,
         "created_at": "2019-09-18T11:06:38Z",
         "updated_at": "2019-09-18T11:06:41Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.3.0/N_m3u8DL-CLI-SimpleG.exe"
