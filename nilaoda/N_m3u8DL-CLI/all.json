@@ -63,7 +63,7 @@
         "content_type": "application/x-msdownload",
         "state": "uploaded",
         "size": 923648,
-        "download_count": 2129,
+        "download_count": 2134,
         "created_at": "2020-10-21T14:26:00Z",
         "updated_at": "2020-10-21T14:26:11Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.7.5/N_m3u8DL-CLI_v2.7.5.exe"
@@ -97,7 +97,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 6283925,
-        "download_count": 3181,
+        "download_count": 3188,
         "created_at": "2020-10-21T14:28:06Z",
         "updated_at": "2020-10-21T14:28:49Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.7.5/N_m3u8DL-CLI_v2.7.5_with_ffmpeg_and_SimpleG.zip"
@@ -171,7 +171,7 @@
         "content_type": "application/x-msdownload",
         "state": "uploaded",
         "size": 923136,
-        "download_count": 2917,
+        "download_count": 2918,
         "created_at": "2020-09-20T05:42:36Z",
         "updated_at": "2020-09-20T05:42:42Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.7.4/N_m3u8DL-CLI_v2.7.4.exe"
@@ -205,7 +205,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 6283810,
-        "download_count": 4839,
+        "download_count": 4840,
         "created_at": "2020-09-20T05:42:48Z",
         "updated_at": "2020-09-20T05:43:12Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.7.4/N_m3u8DL-CLI_v2.7.4_with_ffmpeg_and_SimpleG.zip"
@@ -563,7 +563,7 @@
         "content_type": "application/x-msdownload",
         "state": "uploaded",
         "size": 919552,
-        "download_count": 2086,
+        "download_count": 2087,
         "created_at": "2020-07-19T01:28:02Z",
         "updated_at": "2020-07-19T01:28:05Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.7.1/N_m3u8DL-CLI_v2.7.1.exe"
