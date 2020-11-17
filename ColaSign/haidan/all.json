@@ -10,6 +10,14 @@
     "target_commitish": "master",
     "name": "0.0.5",
     "draft": false,
+    "prerelease": false,
+    "created_at": "2020-07-22T03:17:05Z",
+    "published_at": "2020-07-22T03:18:06Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/ColaSign/haidan/tarball/0.0.5",
+    "zipball_url": "https://api.github.com/repos/ColaSign/haidan/zipball/0.0.5",
     "author": {
       "login": "jokin1999",
       "id": 16080182,
@@ -30,14 +38,6 @@
       "type": "User",
       "site_admin": false
     },
-    "prerelease": false,
-    "created_at": "2020-07-22T03:17:05Z",
-    "published_at": "2020-07-22T03:18:06Z",
-    "assets": [
-
-    ],
-    "tarball_url": "https://api.github.com/repos/ColaSign/haidan/tarball/0.0.5",
-    "zipball_url": "https://api.github.com/repos/ColaSign/haidan/zipball/0.0.5",
     "body": "- 增加多账户支持\r\n- 优化报错方案\r\n- 修复账户报错后程序停止运行的Bug\r\n- 增加LICENSE（详见README）"
   },
   {
@@ -51,6 +51,14 @@
     "target_commitish": "master",
     "name": "0.0.4",
     "draft": false,
+    "prerelease": false,
+    "created_at": "2020-07-17T02:53:14Z",
+    "published_at": "2020-07-17T03:39:36Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/ColaSign/haidan/tarball/0.0.4",
+    "zipball_url": "https://api.github.com/repos/ColaSign/haidan/zipball/0.0.4",
     "author": {
       "login": "jokin1999",
       "id": 16080182,
@@ -71,14 +79,6 @@
       "type": "User",
       "site_admin": false
     },
-    "prerelease": false,
-    "created_at": "2020-07-17T02:53:14Z",
-    "published_at": "2020-07-17T03:39:36Z",
-    "assets": [
-
-    ],
-    "tarball_url": "https://api.github.com/repos/ColaSign/haidan/tarball/0.0.4",
-    "zipball_url": "https://api.github.com/repos/ColaSign/haidan/zipball/0.0.4",
     "body": "增加通用性"
   },
   {
@@ -92,6 +92,14 @@
     "target_commitish": "master",
     "name": "0.0.3",
     "draft": false,
+    "prerelease": false,
+    "created_at": "2020-07-16T09:08:42Z",
+    "published_at": "2020-07-16T09:09:33Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/ColaSign/haidan/tarball/0.0.3",
+    "zipball_url": "https://api.github.com/repos/ColaSign/haidan/zipball/0.0.3",
     "author": {
       "login": "jokin1999",
       "id": 16080182,
@@ -112,14 +120,6 @@
       "type": "User",
       "site_admin": false
     },
-    "prerelease": false,
-    "created_at": "2020-07-16T09:08:42Z",
-    "published_at": "2020-07-16T09:09:33Z",
-    "assets": [
-
-    ],
-    "tarball_url": "https://api.github.com/repos/ColaSign/haidan/tarball/0.0.3",
-    "zipball_url": "https://api.github.com/repos/ColaSign/haidan/zipball/0.0.3",
     "body": "增加隐私保护等级"
   },
   {
@@ -133,6 +133,14 @@
     "target_commitish": "master",
     "name": "0.0.2",
     "draft": false,
+    "prerelease": false,
+    "created_at": "2020-07-16T08:17:02Z",
+    "published_at": "2020-07-16T08:26:31Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/ColaSign/haidan/tarball/0.0.2",
+    "zipball_url": "https://api.github.com/repos/ColaSign/haidan/zipball/0.0.2",
     "author": {
       "login": "jokin1999",
       "id": 16080182,
@@ -153,14 +161,6 @@
       "type": "User",
       "site_admin": false
     },
-    "prerelease": false,
-    "created_at": "2020-07-16T08:17:02Z",
-    "published_at": "2020-07-16T08:26:31Z",
-    "assets": [
-
-    ],
-    "tarball_url": "https://api.github.com/repos/ColaSign/haidan/tarball/0.0.2",
-    "zipball_url": "https://api.github.com/repos/ColaSign/haidan/zipball/0.0.2",
     "body": "用户名隐藏首尾"
   },
   {
@@ -174,6 +174,14 @@
     "target_commitish": "master",
     "name": "0.0.1",
     "draft": false,
+    "prerelease": false,
+    "created_at": "2020-07-16T08:08:28Z",
+    "published_at": "2020-07-16T08:26:07Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/ColaSign/haidan/tarball/0.0.1",
+    "zipball_url": "https://api.github.com/repos/ColaSign/haidan/zipball/0.0.1",
     "author": {
       "login": "jokin1999",
       "id": 16080182,
@@ -194,14 +202,6 @@
       "type": "User",
       "site_admin": false
     },
-    "prerelease": false,
-    "created_at": "2020-07-16T08:08:28Z",
-    "published_at": "2020-07-16T08:26:07Z",
-    "assets": [
-
-    ],
-    "tarball_url": "https://api.github.com/repos/ColaSign/haidan/tarball/0.0.1",
-    "zipball_url": "https://api.github.com/repos/ColaSign/haidan/zipball/0.0.1",
     "body": "首次发布"
   }
 ]
