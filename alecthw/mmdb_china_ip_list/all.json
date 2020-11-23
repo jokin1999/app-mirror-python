@@ -43,7 +43,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 3912922,
-        "download_count": 19,
+        "download_count": 20,
         "created_at": "2020-11-22T20:24:21Z",
         "updated_at": "2020-11-22T20:24:22Z",
         "browser_download_url": "https://github.com/alecthw/mmdb_china_ip_list/releases/download/20201123/china_ip_list.mmdb"
@@ -77,7 +77,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 9,
-        "download_count": 9,
+        "download_count": 10,
         "created_at": "2020-11-22T20:24:21Z",
         "updated_at": "2020-11-22T20:24:21Z",
         "browser_download_url": "https://github.com/alecthw/mmdb_china_ip_list/releases/download/20201123/version"
