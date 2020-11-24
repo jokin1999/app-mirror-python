@@ -5,6 +5,26 @@
     "upload_url": "https://uploads.github.com/repos/ColaSign/haidan/releases/28809520/assets{?name,label}",
     "html_url": "https://github.com/ColaSign/haidan/releases/tag/0.0.5",
     "id": 28809520,
+    "author": {
+      "login": "jokin1999",
+      "id": 16080182,
+      "node_id": "MDQ6VXNlcjE2MDgwMTgy",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/16080182?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jokin1999",
+      "html_url": "https://github.com/jokin1999",
+      "followers_url": "https://api.github.com/users/jokin1999/followers",
+      "following_url": "https://api.github.com/users/jokin1999/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jokin1999/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jokin1999/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jokin1999/subscriptions",
+      "organizations_url": "https://api.github.com/users/jokin1999/orgs",
+      "repos_url": "https://api.github.com/users/jokin1999/repos",
+      "events_url": "https://api.github.com/users/jokin1999/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jokin1999/received_events",
+      "type": "User",
+      "site_admin": false
+    },
     "node_id": "MDc6UmVsZWFzZTI4ODA5NTIw",
     "tag_name": "0.0.5",
     "target_commitish": "master",
@@ -18,6 +38,14 @@
     ],
     "tarball_url": "https://api.github.com/repos/ColaSign/haidan/tarball/0.0.5",
     "zipball_url": "https://api.github.com/repos/ColaSign/haidan/zipball/0.0.5",
+    "body": "- 增加多账户支持\r\n- 优化报错方案\r\n- 修复账户报错后程序停止运行的Bug\r\n- 增加LICENSE（详见README）"
+  },
+  {
+    "url": "https://api.github.com/repos/ColaSign/haidan/releases/28659149",
+    "assets_url": "https://api.github.com/repos/ColaSign/haidan/releases/28659149/assets",
+    "upload_url": "https://uploads.github.com/repos/ColaSign/haidan/releases/28659149/assets{?name,label}",
+    "html_url": "https://github.com/ColaSign/haidan/releases/tag/0.0.4",
+    "id": 28659149,
     "author": {
       "login": "jokin1999",
       "id": 16080182,
@@ -38,14 +66,6 @@
       "type": "User",
       "site_admin": false
     },
-    "body": "- 增加多账户支持\r\n- 优化报错方案\r\n- 修复账户报错后程序停止运行的Bug\r\n- 增加LICENSE（详见README）"
-  },
-  {
-    "url": "https://api.github.com/repos/ColaSign/haidan/releases/28659149",
-    "assets_url": "https://api.github.com/repos/ColaSign/haidan/releases/28659149/assets",
-    "upload_url": "https://uploads.github.com/repos/ColaSign/haidan/releases/28659149/assets{?name,label}",
-    "html_url": "https://github.com/ColaSign/haidan/releases/tag/0.0.4",
-    "id": 28659149,
     "node_id": "MDc6UmVsZWFzZTI4NjU5MTQ5",
     "tag_name": "0.0.4",
     "target_commitish": "master",
@@ -59,6 +79,14 @@
     ],
     "tarball_url": "https://api.github.com/repos/ColaSign/haidan/tarball/0.0.4",
     "zipball_url": "https://api.github.com/repos/ColaSign/haidan/zipball/0.0.4",
+    "body": "增加通用性"
+  },
+  {
+    "url": "https://api.github.com/repos/ColaSign/haidan/releases/28622658",
+    "assets_url": "https://api.github.com/repos/ColaSign/haidan/releases/28622658/assets",
+    "upload_url": "https://uploads.github.com/repos/ColaSign/haidan/releases/28622658/assets{?name,label}",
+    "html_url": "https://github.com/ColaSign/haidan/releases/tag/0.0.3",
+    "id": 28622658,
     "author": {
       "login": "jokin1999",
       "id": 16080182,
@@ -79,14 +107,6 @@
       "type": "User",
       "site_admin": false
     },
-    "body": "增加通用性"
-  },
-  {
-    "url": "https://api.github.com/repos/ColaSign/haidan/releases/28622658",
-    "assets_url": "https://api.github.com/repos/ColaSign/haidan/releases/28622658/assets",
-    "upload_url": "https://uploads.github.com/repos/ColaSign/haidan/releases/28622658/assets{?name,label}",
-    "html_url": "https://github.com/ColaSign/haidan/releases/tag/0.0.3",
-    "id": 28622658,
     "node_id": "MDc6UmVsZWFzZTI4NjIyNjU4",
     "tag_name": "0.0.3",
     "target_commitish": "master",
@@ -100,6 +120,14 @@
     ],
     "tarball_url": "https://api.github.com/repos/ColaSign/haidan/tarball/0.0.3",
     "zipball_url": "https://api.github.com/repos/ColaSign/haidan/zipball/0.0.3",
+    "body": "增加隐私保护等级"
+  },
+  {
+    "url": "https://api.github.com/repos/ColaSign/haidan/releases/28621073",
+    "assets_url": "https://api.github.com/repos/ColaSign/haidan/releases/28621073/assets",
+    "upload_url": "https://uploads.github.com/repos/ColaSign/haidan/releases/28621073/assets{?name,label}",
+    "html_url": "https://github.com/ColaSign/haidan/releases/tag/0.0.2",
+    "id": 28621073,
     "author": {
       "login": "jokin1999",
       "id": 16080182,
@@ -120,14 +148,6 @@
       "type": "User",
       "site_admin": false
     },
-    "body": "增加隐私保护等级"
-  },
-  {
-    "url": "https://api.github.com/repos/ColaSign/haidan/releases/28621073",
-    "assets_url": "https://api.github.com/repos/ColaSign/haidan/releases/28621073/assets",
-    "upload_url": "https://uploads.github.com/repos/ColaSign/haidan/releases/28621073/assets{?name,label}",
-    "html_url": "https://github.com/ColaSign/haidan/releases/tag/0.0.2",
-    "id": 28621073,
     "node_id": "MDc6UmVsZWFzZTI4NjIxMDcz",
     "tag_name": "0.0.2",
     "target_commitish": "master",
@@ -141,6 +161,14 @@
     ],
     "tarball_url": "https://api.github.com/repos/ColaSign/haidan/tarball/0.0.2",
     "zipball_url": "https://api.github.com/repos/ColaSign/haidan/zipball/0.0.2",
+    "body": "用户名隐藏首尾"
+  },
+  {
+    "url": "https://api.github.com/repos/ColaSign/haidan/releases/28621060",
+    "assets_url": "https://api.github.com/repos/ColaSign/haidan/releases/28621060/assets",
+    "upload_url": "https://uploads.github.com/repos/ColaSign/haidan/releases/28621060/assets{?name,label}",
+    "html_url": "https://github.com/ColaSign/haidan/releases/tag/0.0.1",
+    "id": 28621060,
     "author": {
       "login": "jokin1999",
       "id": 16080182,
@@ -161,14 +189,6 @@
       "type": "User",
       "site_admin": false
     },
-    "body": "用户名隐藏首尾"
-  },
-  {
-    "url": "https://api.github.com/repos/ColaSign/haidan/releases/28621060",
-    "assets_url": "https://api.github.com/repos/ColaSign/haidan/releases/28621060/assets",
-    "upload_url": "https://uploads.github.com/repos/ColaSign/haidan/releases/28621060/assets{?name,label}",
-    "html_url": "https://github.com/ColaSign/haidan/releases/tag/0.0.1",
-    "id": 28621060,
     "node_id": "MDc6UmVsZWFzZTI4NjIxMDYw",
     "tag_name": "0.0.1",
     "target_commitish": "master",
@@ -182,26 +202,6 @@
     ],
     "tarball_url": "https://api.github.com/repos/ColaSign/haidan/tarball/0.0.1",
     "zipball_url": "https://api.github.com/repos/ColaSign/haidan/zipball/0.0.1",
-    "author": {
-      "login": "jokin1999",
-      "id": 16080182,
-      "node_id": "MDQ6VXNlcjE2MDgwMTgy",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/16080182?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/jokin1999",
-      "html_url": "https://github.com/jokin1999",
-      "followers_url": "https://api.github.com/users/jokin1999/followers",
-      "following_url": "https://api.github.com/users/jokin1999/following{/other_user}",
-      "gists_url": "https://api.github.com/users/jokin1999/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/jokin1999/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/jokin1999/subscriptions",
-      "organizations_url": "https://api.github.com/users/jokin1999/orgs",
-      "repos_url": "https://api.github.com/users/jokin1999/repos",
-      "events_url": "https://api.github.com/users/jokin1999/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/jokin1999/received_events",
-      "type": "User",
-      "site_admin": false
-    },
     "body": "首次发布"
   }
 ]
