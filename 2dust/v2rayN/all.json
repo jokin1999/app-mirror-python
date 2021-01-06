@@ -63,7 +63,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 23541199,
-        "download_count": 407,
+        "download_count": 438,
         "created_at": "2021-01-06T11:58:54Z",
         "updated_at": "2021-01-06T11:59:49Z",
         "browser_download_url": "https://github.com/2dust/v2rayN/releases/download/4.5/v2rayN-Core.zip"
@@ -97,7 +97,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 4815519,
-        "download_count": 307,
+        "download_count": 320,
         "created_at": "2021-01-06T11:59:49Z",
         "updated_at": "2021-01-06T12:00:00Z",
         "browser_download_url": "https://github.com/2dust/v2rayN/releases/download/4.5/v2rayN.zip"
@@ -171,7 +171,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 23540583,
-        "download_count": 1941,
+        "download_count": 1943,
         "created_at": "2021-01-04T13:44:34Z",
         "updated_at": "2021-01-04T13:45:27Z",
         "browser_download_url": "https://github.com/2dust/v2rayN/releases/download/4.4/v2rayN-Core.zip"
@@ -205,7 +205,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 4814903,
-        "download_count": 1207,
+        "download_count": 1209,
         "created_at": "2021-01-04T13:45:27Z",
         "updated_at": "2021-01-04T13:45:40Z",
         "browser_download_url": "https://github.com/2dust/v2rayN/releases/download/4.4/v2rayN.zip"
@@ -279,7 +279,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 22432986,
-        "download_count": 6762,
+        "download_count": 6764,
         "created_at": "2020-12-31T05:46:48Z",
         "updated_at": "2020-12-31T05:47:50Z",
         "browser_download_url": "https://github.com/2dust/v2rayN/releases/download/4.3/v2rayN-Core.zip"
@@ -421,7 +421,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 4814052,
-        "download_count": 764,
+        "download_count": 765,
         "created_at": "2020-12-30T08:10:22Z",
         "updated_at": "2020-12-30T08:10:34Z",
         "browser_download_url": "https://github.com/2dust/v2rayN/releases/download/4.2/v2rayN.zip"
@@ -711,7 +711,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 22481538,
-        "download_count": 50803,
+        "download_count": 50814,
         "created_at": "2020-12-05T10:14:59Z",
         "updated_at": "2020-12-05T10:15:47Z",
         "browser_download_url": "https://github.com/2dust/v2rayN/releases/download/3.29/v2rayN-Core.zip"
@@ -745,7 +745,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 4862622,
-        "download_count": 63020,
+        "download_count": 63055,
         "created_at": "2020-12-05T10:15:47Z",
         "updated_at": "2020-12-05T10:16:01Z",
         "browser_download_url": "https://github.com/2dust/v2rayN/releases/download/3.29/v2rayN.zip"
@@ -819,7 +819,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 22481616,
-        "download_count": 14047,
+        "download_count": 14049,
         "created_at": "2020-11-29T12:47:54Z",
         "updated_at": "2020-11-29T12:48:47Z",
         "browser_download_url": "https://github.com/2dust/v2rayN/releases/download/3.28/v2rayN-Core.zip"
@@ -853,7 +853,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 4862700,
-        "download_count": 10908,
+        "download_count": 10909,
         "created_at": "2020-11-29T12:48:47Z",
         "updated_at": "2020-11-29T12:48:56Z",
         "browser_download_url": "https://github.com/2dust/v2rayN/releases/download/3.28/v2rayN.zip"
@@ -927,7 +927,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 22481538,
-        "download_count": 105527,
+        "download_count": 105535,
         "created_at": "2020-10-24T04:19:50Z",
         "updated_at": "2020-10-24T04:20:33Z",
         "browser_download_url": "https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip"
@@ -961,7 +961,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 4862622,
-        "download_count": 97007,
+        "download_count": 97010,
         "created_at": "2020-10-24T04:20:33Z",
         "updated_at": "2020-10-24T04:20:47Z",
         "browser_download_url": "https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN.zip"
@@ -1035,7 +1035,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 22481144,
-        "download_count": 36659,
+        "download_count": 36665,
         "created_at": "2020-10-09T12:44:32Z",
         "updated_at": "2020-10-09T12:45:17Z",
         "browser_download_url": "https://github.com/2dust/v2rayN/releases/download/3.26/v2rayN-Core.zip"
@@ -1069,7 +1069,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 4862228,
-        "download_count": 35047,
+        "download_count": 35048,
         "created_at": "2020-10-09T12:45:17Z",
         "updated_at": "2020-10-09T12:45:26Z",
         "browser_download_url": "https://github.com/2dust/v2rayN/releases/download/3.26/v2rayN.zip"
@@ -1251,7 +1251,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 22253178,
-        "download_count": 9670,
+        "download_count": 9671,
         "created_at": "2020-10-06T11:41:42Z",
         "updated_at": "2020-10-06T11:42:27Z",
         "browser_download_url": "https://github.com/2dust/v2rayN/releases/download/3.24/v2rayN-Core.zip"
@@ -1285,7 +1285,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 4851247,
-        "download_count": 12914,
+        "download_count": 12915,
         "created_at": "2020-10-06T11:42:27Z",
         "updated_at": "2020-10-06T11:42:37Z",
         "browser_download_url": "https://github.com/2dust/v2rayN/releases/download/3.24/v2rayN.zip"
@@ -1791,7 +1791,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 21433958,
-        "download_count": 264537,
+        "download_count": 264570,
         "created_at": "2020-06-04T00:46:10Z",
         "updated_at": "2020-06-04T00:47:13Z",
         "browser_download_url": "https://github.com/2dust/v2rayN/releases/download/3.19/v2rayN-Core.zip"
